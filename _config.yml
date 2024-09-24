@@ -1,0 +1,24 @@
+title: "DM Services Blog"
+description: "Il mio blog semplice usando il tema Minimal Mistakes"
+baseurl: "" # lascia vuoto se il sito è su nomeutente.github.io
+url: "https://dm-services.github.io" # URL del sito
+theme: minimal-mistakes-jekyll
+
+# Plugin di Jekyll
+plugins:
+  - jekyll-include-cache
+
+# Impostazioni per il layout e la navigazione
+collections:
+  posts:
+    output: true
+
+# Impostazioni opzionali (personalizza come preferisci)
+author:
+  name: "Nome Autore"
+  email: "tuoemail@example.com"
+
+# Social media (facoltativo)
+social:
+  twitter: nomeutente_twitter
+  github: dm-services
