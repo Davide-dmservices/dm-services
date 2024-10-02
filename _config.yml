@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "DM-Services"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Davide Mulinacci"
+description              : "Automazioni personalizzate per semplificare i processi e far crescere il tuo business."
 url                      : "https://info.dm-services.it"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Davide-dmservices/dm-services"
